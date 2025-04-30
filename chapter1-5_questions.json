@@ -1,53 +1,78 @@
 {
   "questions": [
     {
-      "Question": "What is the capital of France?",
-      "Answers": ["Paris", "London", "Berlin", "Madrid"],
+      "Question": "Sino ang nagpayo na gumamit ng mga bilanggo at sapilitang paggawa upang maghukay ng kanal sa Maynila?",
+      "Answers": ["Don Custodio", "Simoun", "Padre Salvi", "Ben-Zayb"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang inireklamo ni Donya Victorina habang nasa Bapor Tabo?",
+      "Answers": ["Mabagal ang barko", "Maingay ang makina", "Marumi ang tubig", "Maraming pato"],
       "CorrectAnswers": 0
     },
     {
-      "Question": "Which planet is known as the Red Planet?",
-      "Answers": ["Earth", "Mars", "Jupiter", "Venus"],
+      "Question": "Bakit hindi tuloy-tuloy ang paglalayag ng Bapor Tabo?",
+      "Answers": ["Masisira ang makina", "Sasadsad sa bukiring lugar", "Mawawala sa direksyon", "Maraming pato sa daan"],
       "CorrectAnswers": 1
     },
     {
-      "Question": "What is the largest ocean on Earth?",
-      "Answers": ["Atlantic", "Arctic", "Indian", "Pacific"],
-      "CorrectAnswers": 3
-    },
-    {
-      "Question": "Who wrote 'Romeo and Juliet'?",
-      "Answers": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Leo Tolstoy"],
+      "Question": "Ano ang iminungkahi ni Don Custodio upang linisin ang wawa?",
+      "Answers": ["Hukayin ang kanal", "Paramihin ang pato", "Ibenta ang lupa", "Tabunan ang ilog"],
       "CorrectAnswers": 1
     },
     {
-      "Question": "What gas do plants absorb from the atmosphere?",
-      "Answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-      "CorrectAnswers": 2
-    },
-    {
-      "Question": "Which element has the chemical symbol 'O'?",
-      "Answers": ["Gold", "Oxygen", "Osmium", "Zinc"],
+      "Question": "Sa ilalim ng kubyerta, sino ang nag-usap tungkol sa Akademya ng Wikang Kastila?",
+      "Answers": ["Simoun, Don Custodio, Basilio", "Basilio, Isagani, Kapitan Basilio", "Isagani, Padre Irene, Simoun", "Padre Salvi, Basilio, Isagani"],
       "CorrectAnswers": 1
     },
     {
-      "Question": "What is the square root of 64?",
-      "Answers": ["6", "7", "8", "9"],
+      "Question": "Kanino binigyan ng dalawang kabayo ang mga estudyante?",
+      "Answers": ["Padre Florentino", "Padre Salvi", "Padre Irene", "Padre Sibyla"],
       "CorrectAnswers": 2
     },
     {
-      "Question": "In computing, what does CPU stand for?",
-      "Answers": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit"],
-      "CorrectAnswers": 0
+      "Question": "Sino ang nag-alok ng bahay para sa Akademya ng Wikang Kastila?",
+      "Answers": ["Kapitan Basilio", "Macaraig", "Simoun", "Ben-Zayb"],
+      "CorrectAnswers": 1
     },
     {
-      "Question": "Which continent is the Sahara Desert located in?",
-      "Answers": ["Asia", "Australia", "Africa", "South America"],
+      "Question": "Bakit tinanggihan nina Basilio at Isagani ang paanyaya ni Simoun na uminom ng serbesa?",
+      "Answers": ["Wala silang pera", "Hindi sila sanay uminom", "Ayaw nila kay Simoun", "Abala sila sa paglalakbay"],
       "CorrectAnswers": 2
     },
     {
-      "Question": "Which language is primarily spoken in Brazil?",
-      "Answers": ["Spanish", "Portuguese", "French", "English"],
+      "Question": "Ano ang naramdaman ni Isagani tungkol kay Simoun?",
+      "Answers": ["Giliw", "Takot", "Galit", "Tuwa"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ayon sa kuwento ni Padre Florentino, sino ang dalagang naging alamat dahil sa pagkabigo sa kasal?",
+      "Answers": ["Donya Victorina", "Donya Geronima", "Donya Consolacion", "Juli"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari sa buwaya ayon sa alamat ni Padre Salvi?",
+      "Answers": ["Namatay sa gutom", "Naging bato", "Nalunod", "Naging tao"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang matinding iniisip ni Simoun habang nakatanaw sa lawa?",
+      "Answers": ["Ang alamat ng Malapad-na-Bato", "Ang kapalaran ni Ibarra", "Ang pagkabigo ng Akademya", "Ang pagkawala ni Kabesang Tales"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit naging cabeza de barangay si Kabesang Tales?",
+      "Answers": ["Dahil sa utos ng prayle", "Dahil sa respeto ng mga kanayon", "Dahil sa pagkapanalo sa kaso", "Dahil sa yaman niya"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit nawala si Tano, anak ni Kabesang Tales?",
+      "Answers": ["Tumakas siya", "Nadukot siya", "Napilitang magsundalo", "Nagpakasal siya"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Bakit nawalan ng ganang kumain si Basilio?",
+      "Answers": ["Dahil sa pagod sa paglalakbay", "Dahil sa balitang dinakip si Kabesang Tales", "Dahil sa hindi pag-usad ng Akademya", "Dahil sa takot sa guwardiya sibil"],
       "CorrectAnswers": 1
     }
   ]
