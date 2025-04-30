@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "Question": "What is the capital of France?",
+      "Answers": ["Paris", "London", "Berlin", "Madrid"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Which planet is known as the Red Planet?",
+      "Answers": ["Earth", "Mars", "Jupiter", "Venus"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "What is the largest ocean on Earth?",
+      "Answers": ["Atlantic", "Arctic", "Indian", "Pacific"],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Who wrote 'Romeo and Juliet'?",
+      "Answers": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Leo Tolstoy"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "What gas do plants absorb from the atmosphere?",
+      "Answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Which element has the chemical symbol 'O'?",
+      "Answers": ["Gold", "Oxygen", "Osmium", "Zinc"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "What is the square root of 64?",
+      "Answers": ["6", "7", "8", "9"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "In computing, what does CPU stand for?",
+      "Answers": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Which continent is the Sahara Desert located in?",
+      "Answers": ["Asia", "Australia", "Africa", "South America"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Which language is primarily spoken in Brazil?",
+      "Answers": ["Spanish", "Portuguese", "French", "English"],
+      "CorrectAnswers": 1
+    }
+  ]
+}
